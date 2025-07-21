@@ -28,7 +28,7 @@ This repository merges a powerful backend with an elegant frontend to compose an
 
 ## 🚀 Getting Started
 
-Clone the repository:
+Clone the repository:open the zip
 
 ```bash
 git clone https://github.com/ellipsis52/xero-partner-netmanagement.online-integration.git
