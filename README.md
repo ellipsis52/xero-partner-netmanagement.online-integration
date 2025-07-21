@@ -2,7 +2,8 @@
 
 A symphonic Xero Partner 2.0 integration project, orchestrated with Node.js, React, and the soul of modern digital banking.  
 This repository merges a powerful backend with an elegant frontend to compose an intelligent financial management suite.
-
+After you build the Xero API BUILD Xero Partner 2.0 Project:
+look forward to this repository to continue with the building of the project of Xero Partner 2.0 : https://github.com/ellipsis52/Xero-Partner2.0
 ---
 
 ## ✨ Features
@@ -1151,3 +1152,4 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 >>>>>>> 34d1dd5 (Added React integration to Hyperspace)
+look forward to this repository to continue with the building of the project of Xero Partner 2.0 : https://github.com/ellipsis52/Xero-Partner2.0
